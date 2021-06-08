@@ -1,8 +1,10 @@
+import React from 'react';
 
-function App() {
-  return (
-    <h1>Hello Word</h1>
-  );
-}
+import './global.css';
+import Routes from './routes';
+
+const App = () => (
+    <Routes/>
+);
 
 export default App;
