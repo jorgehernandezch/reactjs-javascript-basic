@@ -25,8 +25,8 @@ yarn -v
 ```
 Mínimas Versiones
 
-Versión Node - 16.17.0 
-Versión NPM - 8.15.0 
+Versión Node - 16.17.0
+Versión NPM - 8.15.0
 Versión Yarn - 2.3.5 
 
 ### Instalación 🔧
