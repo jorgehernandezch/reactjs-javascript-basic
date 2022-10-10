@@ -25,8 +25,8 @@ yarn -v
 ```
 Mínimas Versiones
 
-Versión Node - 16.17.0 
-Versión NPM - 8.15.0 
+Versión Node - 16.17.0
+Versión NPM - 8.15.0
 Versión Yarn - 2.3.5 
 
 ### Instalación 🔧
@@ -48,7 +48,7 @@ _Corra el proyecto con_
 ```
 yarn start o npm strat
 ```
-_Si todo está correcto puede acceder al proyecto en la dirección http://localhost:3000/ y saldr' un mensaje de texto que dice Login. Sientra en la ruta http://localhost:3000/dashboard se mostrará un mensaje que dice Dashboard._
+_Si todo está correcto puede acceder al proyecto en la dirección http://localhost:3000/ y saldrá un mensaje de texto que dice Login. Si entra en la ruta http://localhost:3000/dashboard se mostrará un mensaje de texto que dice Dashboard._
 
 ---
 [Jorge Edo. Hernández](https://github.com/jorgehernandezch)  
