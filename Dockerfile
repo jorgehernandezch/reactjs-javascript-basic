@@ -9,6 +9,7 @@ COPY package.json ./
 COPY yarn.lock ./
 
 RUN yarn install --silent
+RUN yarn add react-scripts --silent
 
 # add app
 COPY . ./
